@@ -4,23 +4,22 @@
 
 // Includes
 # include <iostream>
-# include <string>
 
 // Class declaration
 class <++> {
-public:
-    // Constructors
-    <++>(void);
-    // Destructor
-    ~<++>(void);
+	public:
+		// Constructors
+		<++>(void);
+		// Destructor
+		~<++>(void);
 
-    // Public member functions
-    void someFunction();
-    
-private:
-    // Private member variables
-    string <++>;
-	
+		// Public member functions
+		void someFunction();
+
+	private:
+		// Private member variables
+		std::string <++>;
+
 };
 
 #endif // <++>_HPP
